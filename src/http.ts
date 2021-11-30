@@ -1,4 +1,3 @@
-import * as cors from 'cors';
 import * as express from 'express';
 import * as http from 'http';
 import { Server } from "socket.io";
